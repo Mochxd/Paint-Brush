@@ -31,6 +31,7 @@ Drawing Program is a simple Java-based paint program that allows users to draw v
 - [Contributing](#contributing)
 - [Development Setup](#development-setup)
 - [Dependencies](#dependencies)
+- [Communication](#communication)
 - [Contact](#contact)
 
 ## Usage
