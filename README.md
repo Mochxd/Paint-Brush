@@ -27,21 +27,11 @@ Drawing Program is a simple Java-based paint program that allows users to draw v
   - Load previously saved drawings.
 
  ## Table of Contents
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Development Setup](#development-setup)
 - [Dependencies](#dependencies)
 - [Contact](#contact)
-
-## Getting Started
-
-To run the Drawing Program locally, make sure you have the following installed:
-
-- Java Development Kit (JDK)
-- Any Java IDE (e.g., Eclipse, IntelliJ)
-
-Clone the repository and open it in your preferred Java IDE. Build and run the `DrawingProgram` class to launch the application.
 
 ## Usage
 
