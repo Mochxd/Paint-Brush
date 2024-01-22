@@ -94,7 +94,7 @@ To run the Java NotePad locally, you'll need to have the following installed:
 - Java Development Kit (JDK)
 - Any Java IDE (e.g., Eclipse, IntelliJ)
 
-Clone the repository and open it in your preferred Java IDE. Build and run the `NotePad` class to launch the application.
+Clone the repository and open it in your preferred Java IDE. Build and run the `DrawingProgram` class to launch the application.
 
 ## Dependencies
 
