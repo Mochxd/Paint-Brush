@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Drawing Program is a simple Java-based paint program that allows users to draw various shapes, including lines, rectangles, ovals, and freehand drawings. The program provides features like color selection, dotted lines, and the ability to save and load drawings.
+Paint-Brush is a simple Java-based paint program that allows users to draw various shapes, including lines, rectangles, ovals, and freehand drawings. The program provides features like color selection, dotted lines, and the ability to save and load drawings.
 
 ## Features
 
