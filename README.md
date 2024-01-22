@@ -30,8 +30,8 @@ Drawing Program is a simple Java-based paint program that allows users to draw v
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Development Setup](#development-setup)
 - [Dependencies](#dependencies)
-- [License](#license)
 - [Contact](#contact)
 
 ## Getting Started
@@ -61,21 +61,57 @@ Clone the repository and open it in your preferred Java IDE. Build and run the `
 
 If you'd like to contribute to the development of this Drawing Program, follow these steps:
 
-1. Fork the repository.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your feature or bug fix.
-4. Make changes and commit them.
-5. Push your changes to your forked repository.
-6. Open a pull request to merge your changes into the main repository.
+1. **Fork the Repository:**
+   - Visit the [Java Paint Brush repository]([https://github.com/Mochxd/Paint-Brush]).
+   - Click the "Fork" button in the upper right corner to create a fork under your GitHub account.
+
+2. **Clone the Forked Repository:**
+   ```bash
+   git clone https://github.com/Mochxd/Paint-Brush.git
+   cd JavaNotePad
+
+3. **Create a New Branch:**
+Create a new branch for your feature:
+   ```bash
+   git checkout -b feature/new-feature
+
+4. **Make Changes and Commit::**
+Make necessary changes to the code using your preferred text editor or IDE.
+Once changes are made, stage and commit them:
+    ```bash
+    git add .
+    git commit -m 'Add new feature'
+
+5. **Push Changes to GitHub:**
+Push your changes to the branch on your forked repository on GitHub:
+    ```bash
+    git push origin feature/new-feature
+
+
+6. **Create a Pull Request:**
+
+- Visit your forked repository on GitHub.
+- Switch to the branch you just pushed (feature/new-feature).
+- Click the "New Pull Request" button.
+- Provide a title and description for your pull request.
+- Click "Create Pull Request" to submit your changes.
+
+
+## Development Setup
+
+To run the Java NotePad locally, you'll need to have the following installed:
+
+- Java Development Kit (JDK)
+- Any Java IDE (e.g., Eclipse, IntelliJ)
+
+Clone the repository and open it in your preferred Java IDE. Build and run the `NotePad` class to launch the application.
 
 ## Dependencies
 
-No external dependencies are required for this project. The application uses standard Java libraries for GUI components.
+No external dependencies are required for this project. The application uses standard Java Swing libraries for GUI components.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Communication
+- Use [Gmail] for communication.
 
 ## Contact
-
-For questions or assistance, contact [Your Name] at [your.email@example.com].
+- For questions or assistance, contact [mohamedbadrxd@gmail.com].
